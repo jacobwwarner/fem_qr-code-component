@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/simpley-qr-code-component-using-bem-css-methodology-KGxa3s31Gn)
-- Live Site URL: [Add live site URL here](https://jacobwwarner-qr-code-component.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/simpley-qr-code-component-using-bem-css-methodology-KGxa3s31Gn)
+- Live Site URL: (https://jacobwwarner-qr-code-component.netlify.app/)
 
 ## My process
 
